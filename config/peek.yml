@@ -1,0 +1,4 @@
+peekdotcom:
+  channel: '#pdc'
+  members: [alex, ki, mmahalwy]
+  use_labels: true
